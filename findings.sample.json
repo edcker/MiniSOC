@@ -1,0 +1,11 @@
+[
+  {
+    "Timestamp": "2026-02-01T10:49:32+05:30",
+    "Severity": "Medium",
+    "Type": "Brute Force",
+    "EventID": 4625,
+    "Count": 6,
+    "Message": "Detected 6 failed login attempts for user 'example-user' within 240 minutes."
+  }
+]
+

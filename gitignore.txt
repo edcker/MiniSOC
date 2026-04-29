@@ -1,0 +1,16 @@
+# Runtime data
+findings.json
+findings-backup.json
+
+# Local-only files
+local-only/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# PowerShell temp
+*.log
+
+# Secrets (future-proofing)
+*.env
